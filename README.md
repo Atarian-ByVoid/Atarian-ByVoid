@@ -13,15 +13,15 @@
 # synthwave
 # Vaporwave
 # Rock Classic
-# Soundtracks
+# Soundtracks 
 
 
 ---------Fav Games (Top 5 ;))--------
-Terraria
-No Man's Sky
-Rise Of Nation
-Warcraft III
-Word Of Warcraft
+# Terraria
+# No Man's Sky
+# Rise Of Nation
+# Warcraft III
+# Word Of Warcraft
 
 
 
