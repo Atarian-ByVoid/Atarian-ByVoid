@@ -9,7 +9,7 @@
 - Synthwave
 - Rock Classic
 
----------Fav Games 🎮Top 5 ;)--------
+---------Fav Games 🎮 ;)--------
 - Terraria
 - Word Of Warcraft
 
