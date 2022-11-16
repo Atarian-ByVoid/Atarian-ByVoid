@@ -1,3 +1,5 @@
+# Me, Beto
+
 - 👋 Hi, I’m @Atarian-ByVoid, better known as carlos, and this is my repository, here it will be possible to find codes in C, Java, Js, mobile projects, and even API :)
 - 👀 I’m interested in learn new technologies and work on new projects
 - 🌱 I’m currently learning Python, C, C++, HTML and working on a spotfy-inspired interface
@@ -8,20 +10,17 @@
 #Linkedin: https://www.linkedin.com/in/carlos-alberto-94255a21b/
 #Email: cgomespimentel7@gmail.com
 
-
----------Music style----------
-# synthwave
-# Vaporwave
-# Rock Classic
-# Soundtracks 
-
-
----------Fav Games (Top 5 ;))--------
-# Terraria
-# No Man's Sky
-# Rise Of Nation
-# Warcraft III
-# Word Of Warcraft
+# ---------Music style----------
+- synthwave
+- Vaporwave
+- Rock Classic
+- Soundtracks 
+# ---------Fav Games (Top 5 ;))--------
+- Terraria
+- No Man's Sky
+- Rise Of Nation
+- Warcraft III
+- Word Of Warcraft
 
 
 
