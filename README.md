@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Python, C, C++, HTML and working on a spotfy-inspired interface
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me:
-#Spotfy:
-#Instagram:
-#Linkedin:
+#Spotfy: https://open.spotify.com/user/21eho7qs7crypprua2r75fs5q?si=gYIRj5eDQEC38RgiyLxRig&utm_source=copy-link
+#Instagram: beto._60
+#Linkedin: https://www.linkedin.com/in/carlos-alberto-94255a21b/
 #Email: cgomespimentel7@gmail.com
 
