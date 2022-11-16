@@ -8,6 +8,7 @@
 ---------🎶 Music style 🎶----------
 - Synthwave
 - Rock Classic
+
 ---------Fav Games 🎮Top 5 ;)--------
 - Terraria
 - Word Of Warcraft
@@ -19,9 +20,9 @@
 - *Email: cgomespimentel7@gmail.com
 
 # Top programming languages
--Java
--Js
--C
+- Java
+- Js
+- C
 
 
 
