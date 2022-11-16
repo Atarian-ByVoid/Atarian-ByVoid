@@ -14,10 +14,10 @@
 - Word Of Warcraft
 
 # 📫How to reach me:
-- *Spotfy*: https://open.spotify.com/user/21eho7qs7crypprua2r75fs5q?si=gYIRj5eDQEC38RgiyLxRig&utm_source=copy-link
-- *Instagram: [beto._60](https://instagram.com/beto._60?igshid=ZDdkNTZiNTM=)
-- *Linkedin: https://www.linkedin.com/in/carlos-alberto-94255a21b/
-- *Email: cgomespimentel7@gmail.com
+- Spotfy*: https://open.spotify.com/user/21eho7qs7crypprua2r75fs5q?si=gYIRj5eDQEC38RgiyLxRig&utm_source=copy-link
+- Instagram: [beto._60](https://instagram.com/beto._60?igshid=ZDdkNTZiNTM=)
+- Linkedin: https://www.linkedin.com/in/carlos-alberto-94255a21b/
+- Email: cgomespimentel7@gmail.com
 
 # Top programming languages
 - Java
