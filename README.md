@@ -21,7 +21,7 @@
 
 # Top programming languages
 - Java
-- Js
+- C#
 - C
 
 
