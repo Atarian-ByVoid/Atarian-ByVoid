@@ -1,7 +1,7 @@
 
 # Hi, I'm Atarian 💓
 
- Meu verdadeiro nome é Carlos! Atualmente estou cursando o 4º Semestre de Análise e desenolvimento de sistemas e embarquei em um curso completo de inglês. Eu sou apaixonado por bons livros, natureza e jogar sempres os mesmos jogos e estou sempre em busca de novos desafios para me desafiar e crescer profissionalmente. No meu tempo livre, gosto de [ir para casa do sitío como forma de um "retiro espiriutal", para  ajustar os pontos de minha vida. Enfim, sinta-se à vontade para explorar meus projetos aqui no GitHub e entrar em contato comigo se tiver alguma pergunta ou oportunidade de colaboração!
+### Meu verdadeiro nome é Carlos! Atualmente estou cursando o 4º Semestre de Análise e desenolvimento de sistemas e embarquei em um curso completo de inglês. Eu sou apaixonado por bons livros, natureza e jogar sempres os mesmos jogos e estou sempre em busca de novos desafios para me desafiar e crescer profissionalmente. No meu tempo livre, gosto de ir para casa do sitío como forma de um "retiro espiriutal", para  ajustar os pontos de minha vida. Enfim, sinta-se à vontade para explorar meus projetos aqui no GitHub e entrar em contato comigo se tiver alguma pergunta ou oportunidade de colaboração!
 
 ## Futuros projetos
 - Portfólio estrturudo com todas as minhas informações acadêmcicas.
@@ -38,22 +38,21 @@
 
 ## Tecnologias mais usada no momento 🦄
 <div style= "display: inline_block"><br/>
-  <img align="center" alt="java"src="	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
- <img align="center" alt="python"src="	https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=whi"/>
+    <img alt= "spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+    <img alt= "sql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img alt= "java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </div>
-
 
 
 ### _***Menção especial usada para construir o layout deste perfil***_
 <div style= "display: inline_block"><br/>
-    <img alt= "html5" src="	https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+    <img alt= "mark" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
 </div>
 
 
 # OS
-## Sistemas operacionais em uso
-### Ainda uso o Windows devido a softwares da Microsoft que sofrem de incompatibilidade nas Distros linux, então meio que fui a forçado a ficar no "meio do muro".
 <div style= "display: inline_block"><br/>
-    <img alt= "html5" src="	https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-      <img alt= "html5" src="	https://img.shields.io/badge/Elementary%20OS-64BAFF?style=for-the-badge&logo=elementary&logoColor=white"/>
-        <img alt= "html5" src="	https://img.shields.io/badge/Deepin-007CFF?style=for-the-badge&logo=deepin&logoColor=white"/>
+    <img alt= "elementaryos" src="	https://img.shields.io/badge/Elementary%20OS-64BAFF?style=for-the-badge&logo=elementary&logoColor=white"/>
+      <img alt= "deepin" src="	https://img.shields.io/badge/Deepin-007CFF?style=for-the-badge&logo=deepin&logoColor=white"/>
+        <img alt= "windows" src="	https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+ </div>
