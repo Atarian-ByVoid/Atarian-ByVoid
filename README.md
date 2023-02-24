@@ -52,7 +52,9 @@
 
 # OS
 <div style= "display: inline_block"><br/>
-    <img alt= "elementaryos" src="	https://img.shields.io/badge/Elementary%20OS-64BAFF?style=for-the-badge&logo=elementary&logoColor=white"/>
-      <img alt= "deepin" src="	https://img.shields.io/badge/Deepin-007CFF?style=for-the-badge&logo=deepin&logoColor=white"/>
-        <img alt= "windows" src="	https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
- </div>
+    <img alt= "deepin" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+        <img alt= "elementaryos" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+    <img alt= "windows" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+</div>
+
+
