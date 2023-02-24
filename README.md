@@ -20,7 +20,7 @@
 # Recently used technologiess
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atarian-ByVoid&hide_progress=true)](https://github.com/Atarian-ByVoid-readme-stats)
 
-## Tecnologias Web 🐧
+## Web Technologies 🐧
 <div style= "display: inline_block"><br/>
     <img align="center" alt= "html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "/>
     <img align="center"alt="css"src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -55,7 +55,7 @@
     <img alt= "deepin" src="https://img.shields.io/badge/Deepin-007CFF?style=for-the-badge&logo=deepin&logoColor=white"/>
         <img alt= "elementaryos" src="https://img.shields.io/badge/Elementary%20OS-64BAFF?style=for-the-badge&logo=elementary&logoColor=white"/>
     <img alt= "windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/><br/>
-    <p>⬇️ Aposentado :( ⬇️ <p>
+    <p>⬇️ Retiree :( ⬇️ <p>
     <img alt= "windows" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
 </div>
 
