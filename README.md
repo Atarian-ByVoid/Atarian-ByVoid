@@ -1,6 +1,7 @@
 
 # Hi, I'm Atarian 💓
-   Meu verdadeiro nome é Carlos! Atualmente estou cursando o 4º Semestre de Análise e desenolvimento de sistemas e embarquei em um curso completo de inglês. Eu sou apaixonado por bons livros, natureza e jogar sempres os mesmos jogos e estou sempre em busca de novos desafios para me desafiar e crescer profissionalmente. No meu tempo livre, gosto de [ir para casa do sitío como forma de um "retiro espiriutal", para  ajustar os pontos de minha vida. Enfim, sinta-se à vontade para explorar meus projetos aqui no GitHub e entrar em contato comigo se tiver alguma pergunta ou oportunidade de colaboração!
+
+ Meu verdadeiro nome é Carlos! Atualmente estou cursando o 4º Semestre de Análise e desenolvimento de sistemas e embarquei em um curso completo de inglês. Eu sou apaixonado por bons livros, natureza e jogar sempres os mesmos jogos e estou sempre em busca de novos desafios para me desafiar e crescer profissionalmente. No meu tempo livre, gosto de [ir para casa do sitío como forma de um "retiro espiriutal", para  ajustar os pontos de minha vida. Enfim, sinta-se à vontade para explorar meus projetos aqui no GitHub e entrar em contato comigo se tiver alguma pergunta ou oportunidade de colaboração!
 
 ## Futuros projetos
 - Portfólio estrturudo com todas as minhas informações acadêmcicas.
@@ -22,22 +23,22 @@
 ## Tecnologias Web 🐧
 <div style= "display: inline_block"><br/>
     <img alt= "html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "/>
-    <img alt= "html5" src="	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img alt= "html5" src="	https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img alt= "css" src="	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img alt= "js" src="	https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div>
 
 ## Tecnologias baixo nivel 🎛️
 <div style= "display: inline_block"><br/>
-    <img alt= "html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=whit "/>
-    <img alt= "html5" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-    <img alt= "html5" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+    <img alt= "c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=whit "/>
+    <img alt= "c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+    <img alt= "c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </div>
 
 
 ## Tecnologias mais usada no momento 🦄
 <div style= "display: inline_block"><br/>
-    <img alt= "html5" src="	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-    <img alt= "html5" src="	https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=whi"/>
+    <img alt= "java" src="	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img alt= "python" src="	https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=whi"/>
 </div>
 
 
