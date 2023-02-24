@@ -60,4 +60,3 @@
     <img alt= "windows" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
 </div>
 
-![Snake animation](https://github.com/Atarian-ByVoid/Atarian-ByVoid/output/github-contribution-grid.snake.svg)
