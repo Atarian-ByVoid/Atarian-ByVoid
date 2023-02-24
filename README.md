@@ -38,8 +38,8 @@
 
 ## Tecnologias mais usada no momento 🦄
 <div style= "display: inline_block"><br/>
-    <img alt= "java" src="	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-    <img alt= "python" src="	https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=whi"/>
+  <img align="center" alt="java"src="	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+ <img align="center" alt="python"src="	https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=whi"/>
 </div>
 
 
