@@ -1,7 +1,6 @@
 
 # Hi, I'm Atarian 💓
-
-### Meu verdadeiro nome é Carlos! Atualmente estou cursando o 4º Semestre de Análise e desenolvimento de sistemas e embarquei em um curso completo de inglês. Eu sou apaixonado por bons livros, natureza e jogar sempres os mesmos jogos e estou sempre em busca de novos desafios para me desafiar e crescer profissionalmente. No meu tempo livre, gosto de [ir para casa do sitío como forma de um "retiro espiriutal", para  ajustar os pontos de minha vida. Enfim, sinta-se à vontade para explorar meus projetos aqui no GitHub e entrar em contato comigo se tiver alguma pergunta ou oportunidade de colaboração!
+   Meu verdadeiro nome é Carlos! Atualmente estou cursando o 4º Semestre de Análise e desenolvimento de sistemas e embarquei em um curso completo de inglês. Eu sou apaixonado por bons livros, natureza e jogar sempres os mesmos jogos e estou sempre em busca de novos desafios para me desafiar e crescer profissionalmente. No meu tempo livre, gosto de [ir para casa do sitío como forma de um "retiro espiriutal", para  ajustar os pontos de minha vida. Enfim, sinta-se à vontade para explorar meus projetos aqui no GitHub e entrar em contato comigo se tiver alguma pergunta ou oportunidade de colaboração!
 
 ## Futuros projetos
 - Portfólio estrturudo com todas as minhas informações acadêmcicas.
