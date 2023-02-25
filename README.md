@@ -20,14 +20,14 @@
 # Recently used technologiess
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atarian-ByVoid&hide_progress=true)](https://github.com/Atarian-ByVoid-readme-stats)
 
-## Web Technologies 🐧
+## 🐧 Web Technologies 🐧
 <div style= "display: inline_block"><br/>
     <img align="center" alt= "html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "/>
     <img align="center"alt="css"src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
    <img align="center"alt="js"src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div>
 
-## Specific Technologies 🎛️
+## 🎛️ Specific Technologies 🎛️
 <div style= "display: inline_block"><br/>
     <img alt= "c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=whit "/>
     <img alt= "c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -35,7 +35,7 @@
 </div>
 
 
-## Most used technologies at the moment 🦄
+## 🦄 Most used technologies at the moment 🦄
 <div style= "display: inline_block"><br/>
     <img alt= "spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
     <img alt= "sql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -50,7 +50,7 @@
 
 
 
-# OS
+# OS 💻
 <div style= "display: inline_block"><br/>
     <img alt= "deepin" src="https://img.shields.io/badge/Deepin-007CFF?style=for-the-badge&logo=deepin&logoColor=white"/>
         <img alt= "elementaryos" src="https://img.shields.io/badge/Elementary%20OS-64BAFF?style=for-the-badge&logo=elementary&logoColor=white"/>
