@@ -6,7 +6,7 @@
 - Structured portfolio with all my academic information.
 - Develop one more retro game, in Js or Java.
 - Creation and implementation of bots on telegram using the Python language.
-(***⬆️Em andamento⬆️***)
+(***⬆️in progress⬆️***)
 
 ## Places where you can find me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-alberto-94255a21b/)
