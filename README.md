@@ -5,7 +5,6 @@
 ## Future projects
 - Structured portfolio with all my academic information.
 - Develop one more retro game, in Js or Java.
-- Creation and implementation of bots on telegram using the Python language.
 (***⬆️in progress⬆️***)
 
 ## Places where you can find me!
