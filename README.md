@@ -1,7 +1,7 @@
 
 # Hi, I'm Atarian 💓
 
-### My real name is Carlos! I am currently studying the 4th Semester of Systems Analysis and Development and embarked on a complete English course. I am passionate about good books, nature and always playing the same games and I am always looking for new challenges to challenge myself and grow professionally. In my spare time, I like to go home to the farm as a form of "spiritual retreat" to get things right in my life. Anyway, feel free to explore my projects here on GitHub and contact me if you have any questions or collaboration opportunities!
+### My real name is Carlos! I am currently studying the 5th Semester of Systems Analysis and Development and embarked on a complete English course. I am passionate about good books, nature and always playing the same games and I am always looking for new challenges to challenge myself and grow professionally. In my spare time, I like to go home to the farm as a form of "spiritual retreat" to get things right in my life. Anyway, feel free to explore my projects here on GitHub and contact me if you have any questions or collaboration opportunities!
 ## Future projects
 - Structured portfolio with all my academic information.
 - Develop one more retro game, in Js or Java.
