@@ -14,8 +14,7 @@
 
 ![Atarian GitHub stats](https://github-readme-stats.vercel.app/api?username=Atarian-ByVoid&show_icons=true&theme=synthwave)
 
-[![trophy](https://github-profile-trophy.vercel.app/?Atarian-ByVoid=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight))
-
+[![trophy](https://github-profile-trophy.vercel.app/?Atarian-ByVoid=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 # Recently used technologiess
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atarian-ByVoid&hide_progress=true)](https://github.com/Atarian-ByVoid-readme-stats)
