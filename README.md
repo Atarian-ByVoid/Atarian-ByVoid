@@ -5,6 +5,7 @@
 ## Future projects
 - Structured portfolio with all my academic information.
 - Develop one more retro game, in Js or Java.
+
 (***⬆️in progress⬆️***)
 
 ## Places where you can find me!
@@ -14,7 +15,9 @@
 
 ![Atarian GitHub stats](https://github-readme-stats.vercel.app/api?username=Atarian-ByVoid&show_icons=true&theme=synthwave)
 
-[![trophy](https://github-profile-trophy.vercel.app/?Atarian-ByVoid=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+# Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Atarian-ByVoid&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 # Recently used technologiess
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atarian-ByVoid&hide_progress=true)](https://github.com/Atarian-ByVoid-readme-stats)
