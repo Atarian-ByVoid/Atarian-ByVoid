@@ -11,7 +11,10 @@ Currently, I am in the last period of the Systems Analysis and Development cours
 ### Future Projects
 
 - Structured portfolio with all my academic information.
-- Develop one more retro game, in Js or Java.
+- Development of retro games in JavaScript or Java.
+- Creation of systems for buying and selling electronics.
+- Exploration of projects involving low-level languages like Lua.
+
 
 ## Where to Find Me!
 
