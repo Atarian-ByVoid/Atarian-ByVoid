@@ -32,6 +32,8 @@ Currently, I am in the last period of the Systems Analysis and Development cours
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django](https://devicons.dev.br/icons?icon=NestJS&size=50&theme=dark&perline=1)
+
 
 ## FrontEnd Frameworks
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
