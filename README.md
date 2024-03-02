@@ -27,6 +27,11 @@ Currently, I am in the last period of the Systems Analysis and Development cours
 ![Atarian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Atarian-ByVoid&show_icons=true&theme=synthwave)
 [![Trophy](https://github-profile-trophy.vercel.app/?username=Atarian-ByVoid&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+## Web Services Technologies
+#### - Rest 
+#### - SOAP
+#### - XML
+#### - WSDL
 ## Backend Frameworks
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
