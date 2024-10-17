@@ -54,6 +54,7 @@ Currently, I am in the last period of the Systems Analysis and Development cours
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white)
 
 ## Programming Languages
 
@@ -67,6 +68,10 @@ Currently, I am in the last period of the Systems Analysis and Development cours
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 <img src="https://github.com/Atarian-ByVoid/Atarian-ByVoid/assets/96325150/b1a068a0-b33d-4001-b96a-4cb8c75cbe5b" alt="Cobol Image" style="width:35px">
+
+## Others
+
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
 
 ## Operating Systems
