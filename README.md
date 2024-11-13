@@ -86,3 +86,5 @@ Currently, I am in the last period of the Systems Analysis and Development cours
 ## Others
 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+
+[![An image of @atarianbyvoid's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/atarianbyvoid)](https://holopin.io/@atarianbyvoid)
