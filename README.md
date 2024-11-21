@@ -1,4 +1,4 @@
-# Hi, I'm Atarian 💓  
+# Hi, I'm Carlos   
 
 I recently completed my **Systems Analysis and Development** degree and am now pursuing a **Systems Information** course, continuously learning and evolving as a software developer. My passions include programming, good literature, and appreciating the beauty of nature.  
 
